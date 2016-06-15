@@ -1,0 +1,1 @@
+https://github.com/wvanvlaenderen/ESP8266-Eagle_Library
