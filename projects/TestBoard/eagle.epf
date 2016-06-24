@@ -7,6 +7,7 @@ Desktop="Desktop"
 
 [Globals]
 AutoSaveProject=1
+UsedLibrary="/home/tong/Application/eagle-7.6.0/Custom-Libraries/diy-modules.lbr"
 UsedLibrary="/home/tong/Application/eagle-7.5/lbr/19inch.lbr"
 UsedLibrary="/home/tong/Application/eagle-7.5/lbr/40xx.lbr"
 UsedLibrary="/home/tong/Application/eagle-7.5/lbr/41xx.lbr"
@@ -347,11 +348,6 @@ UsedLibrary="/home/tong/Application/eagle-7.5/lbr/xilinx-xcv.lbr"
 UsedLibrary="/home/tong/Application/eagle-7.5/lbr/zetex.lbr"
 UsedLibrary="/home/tong/Application/eagle-7.5/lbr/zilog.lbr"
 UsedLibrary="/home/tong/Application/eagle-7.5/lbr/AMS1117/AMS1117-3.3.lbr"
-UsedLibrary="/home/tong/Application/eagle-7.5/lbr/Tong/PowerSupply-5V-700mA.lbr"
-UsedLibrary="/home/tong/Application/eagle-7.5/lbr/Tong/SparkFun-LED-RGB-Tong.lbr"
-UsedLibrary="/home/tong/Application/eagle-7.5/lbr/Tong/fuse2.lbr"
-UsedLibrary="/home/tong/Application/eagle-7.5/lbr/Tong/led_rgb.lbr"
-UsedLibrary="/home/tong/Application/eagle-7.5/lbr/HLK-PM01/HLK-PM01.lbr"
 UsedLibrary="/home/tong/Application/eagle-7.5/lbr/Adafruit-Eagle-Library-master/adafruit.lbr"
 UsedLibrary="/home/tong/Application/eagle-7.5/lbr/SparkFun-Eagle-Libraries-master/GeekAmmo.lbr"
 UsedLibrary="/home/tong/Application/eagle-7.5/lbr/SparkFun-Eagle-Libraries-master/LilyPad-Wearables.lbr"
@@ -389,7 +385,9 @@ UsedLibrary="/home/tong/Application/eagle-7.5/lbr/seeed/Seeed-OPL-Transistor.lbr
 UsedLibrary="/home/tong/Application/eagle-7.5/lbr/seeed/Seeed-OPL-fuse.lbr"
 UsedLibrary="/home/tong/Application/eagle-7.5/lbr/seeed/Seeed-OPL-ic.lbr"
 UsedLibrary="/home/tong/Application/eagle-7.5/lbr/seeed/Seeed-OPL-sensor.lbr"
-UsedLibrary="/home/tong/Application/eagle-7.5/lbr/Tong/sw.lbr"
+UsedLibrary="/home/tong/Application/eagle-7.6.0/Custom-Libraries/ESP8266-Eagle_Library-master/esp8266modules.lbr"
+UsedLibrary="/home/tong/Application/eagle-7.6.0/Custom-Libraries/Tong/HLK-PM01/HLK-PM01.lbr"
+UsedLibrary="/home/tong/Application/eagle-7.6.0/Custom-Libraries/Tong/PowerSupply-5V-700mA.lbr"
 
 [Win_1]
 Type="Control Panel"
