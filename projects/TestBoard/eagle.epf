@@ -388,6 +388,9 @@ UsedLibrary="/home/tong/Application/eagle-7.5/lbr/seeed/Seeed-OPL-sensor.lbr"
 UsedLibrary="/home/tong/Application/eagle-7.6.0/Custom-Libraries/ESP8266-Eagle_Library-master/esp8266modules.lbr"
 UsedLibrary="/home/tong/Application/eagle-7.6.0/Custom-Libraries/Tong/HLK-PM01/HLK-PM01.lbr"
 UsedLibrary="/home/tong/Application/eagle-7.6.0/Custom-Libraries/Tong/PowerSupply-5V-700mA.lbr"
+UsedLibrary="/home/tong/Application/eagle-7.6.0/Custom-Libraries/Tong/Power-Plug-Footprint.lbr"
+UsedLibrary="/home/tong/Application/eagle-7.6.0/Custom-Libraries/Tong/Relay-Songle.lbr"
+UsedLibrary="/home/tong/Application/eagle-7.6.0/Custom-Libraries/Tong/Male-Female-PLUG.lbr"
 
 [Win_1]
 Type="Control Panel"
