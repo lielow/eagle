@@ -395,6 +395,8 @@ UsedLibrary="/home/tong/Application/eagle-7.5/lbr/SparkFun-Eagle-Libraries-maste
 UsedLibrary="/home/tong/Application/eagle-7.5/lbr/EagleCad-Libraries--master/ESP07_12/ESP-07_12.lbr"
 UsedLibrary="/home/tong/Application/eagle-7.5/lbr/EagleCad-Libraries--master/ESP12E/ESP-12E.lbr"
 UsedLibrary="/home/tong/Application/eagle-7.5/lbr/AMS1117/AMS1117-3.3.lbr"
+UsedLibrary="/home/tong/Application/eagle-7.6.0/Custom-Libraries/Tong/HLK-PM01/HLK-PM01.lbr"
+UsedLibrary="/home/tong/Application/eagle-7.6.0/Custom-Libraries/Tong/sw.lbr"
 
 [Win_1]
 Type="Control Panel"
